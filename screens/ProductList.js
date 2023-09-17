@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback, useRef, memo, useMemo } from 'react';
+import React, { useState, useEffect, useCallback, useRef, memo } from 'react';
 import { View, Text, Image, TouchableOpacity, StyleSheet, TextInput, Animated, ActivityIndicator } from 'react-native';
 import { debounce } from 'lodash';
 
